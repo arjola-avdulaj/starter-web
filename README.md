@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Adding a line for rebase example
+Adding a line for rebase example, then more changes from my feature branch too
 
 ## How to contribute
 
