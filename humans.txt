@@ -4,11 +4,11 @@
 # TEAM
 
     Jason Taylor jason@git.training @awesomejt
-    Arjola Avdulaj arjola@gmail @arjolaaaaa
+    Arjola Avdulaj arjola@gmail @arjolaaaaa arjola 1
 
 # THANKS
 
-    Thanks to all my students
+    Thanks to all my students , more changes
 
 # TECHNOLOGY COLOPHON
 
