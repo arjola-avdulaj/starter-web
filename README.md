@@ -15,3 +15,4 @@ Adding a line for rebase example, then more changes from my feature branch too
 Please fork this repository and then issue Pull Requests for review
 
 ## Copyright 
+All rights reserved.
